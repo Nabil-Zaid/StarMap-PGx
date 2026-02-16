@@ -17,6 +17,12 @@ Public demo and notebook coming soon.
 
 ---
 
+## Project architecture
+
+![StarMap-PGx architecture](docs/architecture.png)
+
+---
+
 ## Early adoption
 
 StarMap-PGx is being prepared for testing in pharmacogenomics research workflows and clinical genomics pipelines.
