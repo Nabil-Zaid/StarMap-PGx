@@ -25,6 +25,23 @@ We are collaborating with academic researchers and bioinformatics teams to valid
 
 ---
 
+## Why support this project
+
+Pharmacogenomics can prevent adverse drug reactions and improve treatment outcomes, but its implementation is slowed by fragmented data and lack of interoperable infrastructure.
+
+StarMap-PGx builds the missing open layer connecting star-alleles, genomic variants, and clinical interpretation.
+
+Your support helps:
+
+- accelerate safer drug prescribing
+- enable precision medicine adoption
+- support open pharmacogenomics research
+- build public infrastructure for global health
+
+This project is fully open-source and developed as a public good.
+
+---
+
 ## Problem
 
 Pharmacogenomics relies on star-allele definitions (CPIC, PharmVar), but there is no standardized computational bridge between:
@@ -44,7 +61,7 @@ StarMap-PGx builds an open infrastructure that provides:
 
 - harmonized pharmacogenomic database  
 - star allele → variant → rsID mapping  
-- genome coordinate resolution (GRCh37/38)  
+- genome coordinate resolution (GRCh37/GRCh38)  
 - public API  
 - Python library  
 
