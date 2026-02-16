@@ -1,6 +1,8 @@
 # StarMap-PGx  
 Open Pharmacogenomic Interoperability Infrastructure  
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nabil-Zaid/StarMap-PGx/blob/main/notebooks/StarMap_PGx_demo.ipynb)
+
 ---
 
 ## 🚧 Live development
