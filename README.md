@@ -85,3 +85,18 @@ StarMap-PGx builds an open infrastructure that provides:
 ## Goal
 
 Enable reproducible pharmacogenomics pipelines and support clinical translation worldwide.
+
+---
+
+## Funding target
+
+Initial micro-grant goal: $4,000
+
+This funding will support:
+
+- prototype mapping engine development
+- initial dataset harmonization
+- API prototype
+- public demo release
+
+All outputs will remain open-source.
