@@ -1,8 +1,24 @@
 **StarMap-PGx**
+## Live development
+
+StarMap-PGx is currently under active development.
+
+First prototype release (v0.1) focuses on:
+- CYP2C19 mapping
+- star allele → variant → rsID resolution
+- GRCh38 coordinate support
+
+Public demo and notebook coming soon.
 
 Open Pharmacogenomic Interoperability Infrastructure
 
 StarMap-PGx is an open pharmacogenomics infrastructure designed to connect star-allele nomenclature, genomic variants, rsIDs, and genome coordinates into a unified and reproducible resource for research and clinical use.
+
+## Early adoption
+
+StarMap-PGx is currently being prepared for testing in pharmacogenomics research workflows and clinical genomics pipelines.
+
+We are collaborating with academic researchers and bioinformatics teams to validate early mapping results.
 
 **Problem**
 
